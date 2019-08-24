@@ -25,7 +25,7 @@ SECRET_KEY = 'pbjg*xs2w4adjpis$$j)d4(v#bnmmwlc(@j1ghkk9x-sg8=6^l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '< izabell.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'izabell.pythonanywhere.com']
 
 
 # Application definition
